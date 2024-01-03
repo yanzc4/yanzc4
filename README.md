@@ -15,6 +15,9 @@
   </a>
 </div>
 <hr>
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=yanzc4)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3>👩‍🏫 About Me :</h3><br>
 - 💻 Desarrollo de aplicaciones web con HTML, CSS y JavaScript<br><br>
 -	💾 Desarrollo de APIs REST en php<br><br>
@@ -42,6 +45,7 @@
 ---
 
 ### 📊 Mis Estadisticas:
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=yanzc4&theme=onedark&hide_border=falso&border_radius=4.6&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![Yan Zapata GitHub stats](https://github-readme-stats.vercel.app/api?username=yanzc4&show_icons=true&theme=radical)
