@@ -23,7 +23,7 @@
 -	💾 Desarrollo de APIs REST en php<br><br>
 -	💻 Backend con php y bases de datos relacionales como MySQL y MSSQL<br><br>
 -	📝 Diseño de mockups web y mobile en Figma y Adobe XD<br><br>
--	🌐 Website <a href="prenix.software">prenix.software</a><br>
+-	🌐 Website <a href="https://yanzapata.pages.dev/">Yan Zapata</a><br>
 <div align="left">
   <h3>🔨 Lenguajes y Herraminetas:</h3>
   <div>
