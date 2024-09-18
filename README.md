@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDg5ZDQ2NDk0ZjFlYzhhZjdiYTlmMTBmNDE3Mzc1N2Y3NGZmOWQ4MyZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" width="200" />
   <h1 align="ceneter">Hola 👋, Soy Yan Zapata</h1>
-  <h3 align="center">Soy un egresado de Computación e Informática, apasionado por el desarrollo de aplicaciones web. Me encanta construir soluciones de software que resuelvan problemas reales y brinden una experiencia de usuario excepcional</h3>
+  <h3 align="center">Soy desarrollador de software fullstack, apasionado por el desarrollo de aplicaciones web. Me encanta construir soluciones de software que resuelvan problemas reales y brinden una experiencia de usuario excepcional</h3>
 </div>
 <div id="badges" align="center">
   <a href="https://twitter.com/yanzapata5" target="_blank">
