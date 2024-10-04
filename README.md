@@ -7,9 +7,6 @@
   <a href="https://twitter.com/yanzapata5" target="_blank">
     <img src="https://img.shields.io/twitter/url?logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fyanzapata5" alt="Twitter Badge">
   </a>
-  <a href="https://facebook.com/pablo.zapata.779642" target="_blank">
-    <img src="https://img.shields.io/twitter/url?color=blue&label=Facebbok&logo=facebook&style=for-the-badge&url=https%3A%2F%2Fwww.facebook.com%2Fpablo.zapata.779642" alt="Twitter Badge">
-  </a>
   <a href="mailto:yanzapatacardoza@gmail.com" target="_blank">
     <img src="https://img.shields.io/twitter/url?color=red&label=Gmail&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fmailto%3Ayanzapatacardoza%40gmail.com" alt="Twitter Badge">
   </a>
