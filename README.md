@@ -18,7 +18,7 @@
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=yanzc4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3>👩‍🏫 About Me :</h3><br>
+<h3>About Me :</h3><br>
 - 💻 Desarrollo de aplicaciones web con HTML, CSS y JavaScript<br><br>
 -	💾 Desarrollo de APIs REST en php<br><br>
 -	💻 Backend con php y bases de datos relacionales como MySQL y MSSQL<br><br>
